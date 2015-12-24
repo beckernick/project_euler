@@ -1,2 +1,2 @@
-# project_euler
-Project Euler Problems
+# Project Euler
+Project Euler Problems in Python and R
